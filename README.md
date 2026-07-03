@@ -110,7 +110,7 @@ learning = {
 
 💼 LinkedIn: https://www.linkedin.com/in/vishwadevgupta/
 
-💻 GitHub: https://github.com/Vishwadev05819
+💻 GitHub: https://github.com/vishwadevgupta
 
 ---
 

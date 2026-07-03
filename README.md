@@ -102,7 +102,7 @@ learning = {
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishwadev05819&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishwadevgupta&theme=tokyonight)
 
 ---
 
